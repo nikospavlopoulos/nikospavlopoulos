@@ -15,7 +15,7 @@ I'm an aspiring Software Engineer, leveraging over a decade of Sales and Custome
 ### 🛠️ On a Learning Journey with a focus on Backend & Frontend Programming Languages & Tools
 
 - **Languages**: Java, JavaScript/TypeScript, Python, C#
-- **Frameworks & Tools**: Java SpringBoot, Gradle, Maven & Jakarta EE (including Thymeleaf and REST API), Angular, Node.js
+- **Frameworks & Tools**: SpringBoot, Gradle, Maven & Jakarta EE (including Thymeleaf and REST API), Angular, Node.js
 - **Databases & Data Analytics**: SQL(including mySQL & XAMPP / MariaDB), Power BI, KNIME Analytics, Advanced Excel
 - **Web Development**: HTML, CSS
 
