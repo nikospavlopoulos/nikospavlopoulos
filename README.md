@@ -4,7 +4,7 @@ I'm an aspiring Software Engineer, leveraging over a decade of Sales and Custome
 
 * * *
 
-## 🚀 Current Public Repositories - Projects
+## 🚀 Public Repositories - Projects
 
 - **[Skydiving Logbook - GitHub Repository](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**:  
     **My first full stack project.**  
