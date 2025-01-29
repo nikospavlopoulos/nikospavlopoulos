@@ -28,6 +28,6 @@ I'm an aspiring Software Engineer, leveraging over a decade of Sales and Custome
 #### 🌟 Fun Facts about me
 
 - I am a fanatic Linux (Ubuntu) and Mozilla Firefox user.
-- I love jumping from planes and I am a "United States Parachute Association" (USPA) certified skydiving coach.
+- I love jumping out of perfectly good airplanes and I am a "United States Parachute Association" (USPA) certified skydiving coach.
 - I have fun rock climbing and Lindy Hop dancing
 - I enjoy training and public speaking and have been active in a Toastmasters Public Speaking Club.
