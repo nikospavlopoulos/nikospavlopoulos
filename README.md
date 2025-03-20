@@ -29,8 +29,6 @@ I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Cu
 
 - I am a fanatic Linux (Ubuntu) and Mozilla Firefox user.
 - I love jumping out of perfectly good airplanes and I am a "United States Parachute Association" (USPA) certified skydiving coach.
-
-<iframe src="https://scratch.mit.edu/projects/1140480389/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
+   - *Check a fun Scratch skydive project here :point_right: [Scratch - Skydive](https://scratch.mit.edu/projects/1140480389)*
 - I have fun rock climbing and Lindy Hop dancing
 - I enjoy training and public speaking and have been active in a Toastmasters Public Speaking Club.
