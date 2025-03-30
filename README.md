@@ -10,6 +10,11 @@ I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Cu
   \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) :  
     **My first full stack project.**  
     A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.
+  
+- **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
+  \([*\#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  
+    **A data analysis project.**  
+    In this project, the historical trends in airplane crashes & fatalities and air transport data were analyzed and visualized, using R programming language.
 
 * * *
 
