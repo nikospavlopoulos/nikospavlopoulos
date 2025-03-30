@@ -6,7 +6,8 @@ I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Cu
 
 ## 🚀 Public Repositories - Projects
 
-- **[Skydiving Logbook - GitHub Repository](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**:  
+- **[Skydiving Logbook](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
+  \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) :  
     **My first full stack project.**  
     A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.
 
