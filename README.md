@@ -14,7 +14,7 @@ I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Cu
 - **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
   \([*\#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  
     **A data analysis project.**  
-    In this project, the historical trends in airplane crashes & fatalities and air transport data were analyzed and visualized, using R programming language.
+    In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.
 
 * * *
 
