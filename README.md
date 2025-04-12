@@ -22,7 +22,7 @@ I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Cu
 
 - **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :  
   **Personal Blog Project • 2012–2022**  
-  *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for full-stack web publishing, design customization, automation, SEO, and content strategy.*
+  *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
 
 * * *
 
