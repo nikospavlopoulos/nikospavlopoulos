@@ -4,17 +4,25 @@ I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Cu
 
 * * *
 
-## 🚀 Public Repositories - Projects
+## 🚀 Main Repositories - Software Development Projects
 
 - **[Skydiving Logbook](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
   \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) :  
     **My first full stack project.**  
-    A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.
+    *A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
   
 - **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
   \([*\#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  
     **A data analysis project.**  
-    In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.
+    *In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.*
+
+* * *
+
+#### 🌐 Other / Older Projects
+
+- **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :  
+  **Personal Blog Project • 2012–2022**  
+  *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for full-stack web publishing, design customization, automation, SEO, and content strategy.*
 
 * * *
 
