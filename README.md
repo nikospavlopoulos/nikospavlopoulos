@@ -1,6 +1,6 @@
 # Hi there, I'm Nikos Pavlopoulos 👋
 
-I'm an aspiring Software Engineer, leveraging more than a decade of Sales and Customer Service experience in multinational professional environments. Currently building expertise in backend and frontend development through education with a focus on modern programming languages and frameworks, as well as data analysis, databases, and business intelligence tools.
+I'm an aspiring Software Engineer,Aspiring Software Engineer, with over a decade of professional experience in Sales and Customer Service experience in multinational professional environments. Currently building expertise in backend and frontend development through education with a focus on modern programming languages and frameworks, as well as data analysis, databases, and business intelligence tools.
 
 * * *
 
