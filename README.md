@@ -30,7 +30,7 @@ I'm an aspiring Software Engineer, with over a decade of professional experience
 
 - **Languages**: Java, JavaScript/TypeScript, Python, C#
 - **Frameworks & Tools**: SpringBoot, Gradle, Maven & Jakarta EE (including Thymeleaf and REST API), Angular, Node.js
-- **Databases & Data Analytics**: SQL(including mySQL & XAMPP / MariaDB), Power BI, KNIME Analytics, Advanced Excel
+- **Databases & Data Analytics**: SQL(including mySQL & MariaDB), Power BI, KNIME Analytics, Advanced Excel
 - **Web Development**: HTML, CSS
 
 * * *
