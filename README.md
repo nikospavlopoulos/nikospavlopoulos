@@ -1,10 +1,10 @@
-# Hi there, I'm Nikos Pavlopoulos 👋
+# Hi there, I'm Nikos Pavlopoulos.
 
 I'm an aspiring Software Engineer, with over a decade of professional experience in Sales and Customer Service experience in multinational professional environments. Currently building expertise in backend and frontend development through education with a focus on modern programming languages and frameworks, as well as data analysis, databases, and business intelligence tools.
 
 * * *
 
-## 🚀 Main Repositories - Software Development Projects
+## 👨‍💻 Main Repositories - Software Development Projects
 
 - **[Skydiving Logbook](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
   \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) :  
@@ -18,7 +18,7 @@ I'm an aspiring Software Engineer, with over a decade of professional experience
 
 * * *
 
-#### 🌐 Other / Older Projects
+#### Other / Older Projects
 
 - **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :  
   **Personal Blog Project • 2012–2022**  
@@ -26,7 +26,7 @@ I'm an aspiring Software Engineer, with over a decade of professional experience
 
 * * *
 
-### 🛠️ On a Learning Journey with a focus on Backend & Frontend Programming Languages & Tools
+### On a Learning Journey with a focus on Backend & Frontend Programming Languages & Tools
 
 - **Languages**: Java, JavaScript/TypeScript, Python, C#
 - **Frameworks & Tools**: SpringBoot, Gradle, Maven & Jakarta EE (including Thymeleaf and REST API), Angular, Node.js
@@ -35,11 +35,11 @@ I'm an aspiring Software Engineer, with over a decade of professional experience
 
 * * *
 
-### 📫 Contact Me via the email in my profile info 
+### 📩 Contact Me via the email in my profile info 
 ### 📄 Or check a [Google Doc of my resume](https://resume.nikospavlopoulos.com)
  
 * * *
-#### 🌟 Fun Facts about me
+#### Fun Facts about me
 
 - I am a fanatic Linux (Ubuntu) and Mozilla Firefox user.
 - I love jumping out of perfectly good airplanes and I am a "United States Parachute Association" (USPA) certified skydiving coach.
