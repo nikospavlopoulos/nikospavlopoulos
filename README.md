@@ -36,7 +36,7 @@ I'm an aspiring Software Engineer, with over a decade of professional experience
 * * *
 
 ### 📩 Contact Me via the email in my profile info 
-### 📄 Or check a [Google Doc of my resume](https://resume.nikospavlopoulos.com)
+### 📄 Or check a [Google Doc of my resume](https://resume.nikospavlopoulos.com){:target="_blank"}
  
 * * *
 #### Fun Facts about me
