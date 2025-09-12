@@ -7,7 +7,7 @@ I'm an aspiring Software Developer, with over a decade of professional experienc
 ## 👨‍💻 Main Repositories - Software Development Projects
 
 * **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
-  [*\#Java \#SpringBoot \#RESTAPI \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest) :
+  [*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest) :
   
   *This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br> 
 Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
