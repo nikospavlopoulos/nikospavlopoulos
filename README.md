@@ -1,18 +1,29 @@
 # Hi there, I'm Nikos Pavlopoulos.
 
-I'm an aspiring Software Engineer, with over a decade of professional experience in Sales and Customer Service experience in multinational professional environments. Currently building expertise in backend and frontend development through education with a focus on modern programming languages and frameworks, as well as data analysis, databases, and business intelligence tools.
+I'm an aspiring Software Developer, with over a decade of professional experience  as a Customer Service & Sales exec in multinational professional environments. Currently building expertise in backend and frontend development via educational courses & Projects focused in Java, Spring Boot, REST APIs, SQL, Web (HTML, JavaScript, CSS)
 
 * * *
 
 ## 👨‍💻 Main Repositories - Software Development Projects
 
+* **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
+  [*\#Java \#SpringBoot \#RESTAPI \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest) :
+  
+  *This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br> 
+Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
+The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with vanilla HTML, JavaScript, and CSS allows users to register, log in, create jumps, and view their jump history. <br>
+Spring Boot Integration tests and JUnit, Mockito ensure 95% code coverage, for a reliable foundation for further planned features, including Swagger documentation and Docker deployment.*
+
 - **[Skydiving Logbook](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
-  \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) :  
+  \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : 
+  
     **My first full stack project.**  
     *A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
+
+## 📊 Data Analysis Project
   
 - **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
-  \([*\#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  
+  \([*#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  <br>
     **A data analysis project.**  
     *In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.*
 
@@ -28,10 +39,9 @@ I'm an aspiring Software Engineer, with over a decade of professional experience
 
 ### On a Learning Journey with a focus on Backend & Frontend Programming Languages & Tools
 
-- **Languages**: Java, JavaScript/TypeScript, Python, C#
-- **Frameworks & Tools**: SpringBoot, Gradle, Maven & Jakarta EE (including Thymeleaf and REST API), Angular, Node.js
-- **Databases & Data Analytics**: SQL(including mySQL & MariaDB), Power BI, KNIME Analytics, Advanced Excel
-- **Web Development**: HTML, CSS
+- **Languages & Frameworks**: Java, Spring Boot, REST APIs, SQL, Thymeleaf, Gradle
+- **Web Development**: HTML, CSS, JavaScript
+- **Databases & Data Analytics Tools**: SQL(including mySQL & H2), Power BI, Advanced Excel
 
 * * *
 
