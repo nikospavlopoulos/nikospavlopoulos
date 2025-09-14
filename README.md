@@ -7,14 +7,14 @@ I'm an aspiring Software Developer, with over a decade of professional experienc
 ## 👨‍💻 Main Repositories - Software Development Projects
 
 * **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
-  [*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest) :
+  \([*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)\) :
   
   *This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br> 
 Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
 The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with vanilla HTML, JavaScript, and CSS allows users to register, log in, create jumps, and view their jump history. <br>
 Spring Boot Integration tests and JUnit, Mockito ensure 95% code coverage, for a reliable foundation for further planned features, including Swagger documentation and Docker deployment.*
 
-- **[Skydiving Logbook](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
+- **[Skydiving Logbook - Thymeleaf Web App](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
   \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : 
   
     **My first full stack project.**  
