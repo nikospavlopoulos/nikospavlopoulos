@@ -12,30 +12,31 @@ I'm an entry level Software Developer, with over a decade of professional experi
 ##### For the [Video Demo click here](https://youtu.be/ddpZyq2-30Q?si=0WPRMsWgoW6kFFLE)
 
   *This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br> 
-Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
-The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with vanilla HTML, JavaScript, and CSS allows users to register, log in, create jumps, and view their jump history. <br>
-Spring Boot Integration tests and JUnit, Mockito ensure 95% code coverage, for a reliable foundation for further planned features, including Swagger documentation and Docker deployment.*
+  Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
+  The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with vanilla HTML, JavaScript, and CSS allows users to register, log in, create jumps, and view their jump history. <br>
+  Spring Boot Integration tests and JUnit, Mockito ensure 95% code coverage, for a reliable foundation for further planned features, including Swagger documentation and Docker deployment.*
 
 - **[Skydiving Logbook - Thymeleaf Web App](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
   \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : 
   
-    **My first full stack project.**  
-    *A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
+**My first full stack project.**  
+*A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
 
 ## 📊 Data Analysis Project
   
 - **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
-  \([*#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  <br>
-    **A data analysis project.**  
-    *In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.*
+\([*#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  <br>
+
+*In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.*
 
 * * *
 
 #### Other / Older Projects
 
-- **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :  
-  **Personal Blog Project • 2012–2022**  
-  *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
+- **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :
+ 
+**Personal Blog Project • 2012–2022**  
+*A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
 
 * * *
 
