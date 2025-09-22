@@ -8,7 +8,9 @@ I'm an entry level Software Developer, with over a decade of professional experi
 
 * **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
   \([*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)\) :
-  
+
+##### For the [Video Demo click here](https://youtu.be/ddpZyq2-30Q?si=0WPRMsWgoW6kFFLE)
+
   *This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br> 
 Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
 The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with vanilla HTML, JavaScript, and CSS allows users to register, log in, create jumps, and view their jump history. <br>
