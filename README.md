@@ -31,11 +31,15 @@ My first full stack project:
 
 * * *
 
-#### Other / Older Projects
+#### Other Projects
+
+- **[Project Management Methodologies - Traditional vs Agile](https://gist.github.com/nikospavlopoulos/f60bc9ad46a3d53a1b9818184592c50e)** :
+
+A 45-minute class presentation created during a two-month Project Management program at New York College, Athens. It explores the differences between Traditional and Agile methodologies, highlighting their strengths, limitations, and practical value in real-world projects.
 
 - **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :
  
-**Personal Blog Project • 2012–2022**  
+Personal Blog Project • 2012–2022  
 *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
 
 * * *
