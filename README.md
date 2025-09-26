@@ -19,8 +19,7 @@ I'm an entry level Software Developer, with over a decade of professional experi
 - **[Skydiving Logbook - Thymeleaf Web App](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
   \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : 
   
-My first full stack project:  
-*A web application to log and manage your skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
+My first full stack project:  The REST API’s predecessor. *A web application to log and manage skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
 
 ## 📊 Data Analysis Project
   
