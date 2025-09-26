@@ -26,7 +26,7 @@ My first full stack project:  The REST API’s predecessor. *A web application t
 - **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
 \([*#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  <br>
 
-*In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language.*
+*In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language. The work involved cleaning and structuring the dataset, applying statistical methods to identify long-term trends, and creating visualizations to illustrate key findings. The analysis highlights changes in aviation safety across decades and provides an accessible view of complex historical data.*
 
 * * *
 
