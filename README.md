@@ -1,6 +1,6 @@
 # Hi there, I'm Nikos Pavlopoulos.
 
-I'm an entry level Software Developer, with over a decade of professional experience  as a Customer Service & Sales exec in multinational professional environments. Building expertise in backend and frontend development via educational courses & Projects focused in Java, Spring Boot, REST APIs, SQL, Web (HTML, JavaScript, CSS)
+I'm a Software Developer, with over a decade of professional experience  as a Customer Service & Sales exec in multinational professional environments. Building expertise in backend and frontend development via educational courses & Projects focused in Java, Spring Boot, REST APIs, SQL, Web (HTML, JavaScript, CSS)
 
 * * *
 
