@@ -30,7 +30,7 @@ My first full stack project:  The REST API’s predecessor. *A web application t
 
 * * *
 
-#### Other Projects
+#### Other
 
 - **[Project Management Methodologies - Traditional vs Agile](https://gist.github.com/nikospavlopoulos/f60bc9ad46a3d53a1b9818184592c50e)** :
 
