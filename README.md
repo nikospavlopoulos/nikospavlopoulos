@@ -75,7 +75,7 @@ A 45-minute class presentation created during a two-month Project Management pro
 - **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) : <br> [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
  
 Personal Blog Project • 2012–2022  
-*A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
+*A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy. Ranked on Google’s first page (2014–2020) for Greek terms “telephone sales” & “objection handling”*
 
 * * *
 
