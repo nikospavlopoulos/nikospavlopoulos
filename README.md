@@ -1,6 +1,27 @@
 # Hi there, I'm Nikos Pavlopoulos.
 
-I'm a Software Developer, with over a decade of professional experience  as a Customer Service & Sales exec in multinational professional environments. Building expertise in backend and frontend development via educational courses & Projects focused in Java, Spring Boot, REST APIs, SQL, Web (HTML, JavaScript, CSS)
+I'm a Software Developer, with over a decade of professional experience  as a Customer Service & Sales exec in multinational professional environments. 
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](#)
+[![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
+[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](#)
+[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](#)
+
+**Web Development:**
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+
+**Databases & Analytics:**
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
+[![H2 Database](https://img.shields.io/badge/-H2%20Database-0000BB?style=flat&logo=h2&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
+[![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](#)
 
 * * *
 
@@ -55,29 +76,6 @@ A 45-minute class presentation created during a two-month Project Management pro
  
 Personal Blog Project • 2012–2022  
 *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
-
-* * *
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks:**
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](#)
-[![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
-[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](#)
-[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](#)
-
-**Web Development:**
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
-
-**Databases & Analytics:**
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
-[![H2 Database](https://img.shields.io/badge/-H2%20Database-0000BB?style=flat&logo=h2&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
-[![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](#)
 
 * * *
 
