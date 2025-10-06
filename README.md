@@ -6,9 +6,17 @@ I'm a Software Developer, with over a decade of professional experience  as a Cu
 
 ## 👨‍💻 Main Repositories - Software Development Projects
 
-* **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
-  \([*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)\) : <br>
-  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+### **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)** <br>
+  [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
+  [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](#)
+  [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](#)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)](#)
+  [![Test Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](#)
+
 
 #### For the [Video Demo click here](https://youtu.be/ddpZyq2-30Q?si=0WPRMsWgoW6kFFLE)
 
@@ -17,9 +25,14 @@ I'm a Software Developer, with over a decade of professional experience  as a Cu
   The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with HTML, JavaScript, and Bootstrap & CSS allows users to register, log in, create jumps, and view their jump history. <br>
   Spring Boot Integration tests and JUnit, Mockito ensure 95% code coverage, for a reliable foundation for further planned features, including Swagger documentation and Docker deployment.*
 
-- **[Skydiving Logbook - Thymeleaf Web App](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
-  \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : <br>
-   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+***
+
+#### **[Skydiving Logbook - Thymeleaf Web App](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)** <br>
+  [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
+  [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](#)
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+  [![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](#)
+
   
 My first full stack project:  The REST API’s predecessor. *A web application to log and manage skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
 
@@ -45,16 +58,31 @@ Personal Blog Project • 2012–2022
 
 * * *
 
-### On a Learning Journey with a focus on Backend & Frontend Programming Languages & Tools
+### 🛠️ Tech Stack
 
-- **Languages & Frameworks**: Java, Spring Boot, REST APIs, SQL, Thymeleaf, Gradle
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases & Data Analytics Tools**: SQL(including mySQL & H2), Power BI, Advanced Excel
+**Languages & Frameworks:**
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](#)
+[![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
+[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](#)
+[![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](#)
+
+**Web Development:**
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+
+**Databases & Analytics:**
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
+[![H2 Database](https://img.shields.io/badge/-H2%20Database-0000BB?style=flat&logo=h2&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
+[![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](#)
 
 * * *
 
 ### 📩 Contact Me via the email in my profile info 
-### 📄 Or check a [Google Doc of my resume](https://resume.nikospavlopoulos.com)
+### 📄 Or check [my resume](https://resume.nikospavlopoulos.com)
 
  
 * * *
@@ -62,6 +90,6 @@ Personal Blog Project • 2012–2022
 
 - I am a fanatic Linux (Ubuntu) and Mozilla Firefox user.
 - I love jumping out of perfectly good airplanes and I am a "United States Parachute Association" (USPA) certified skydiving coach.
-   - *Check a fun Scratch skydive project here :point_right: [Scratch - Skydive](https://scratch.mit.edu/projects/1140480389)*
+   - Check a fun Scratch skydive project here 👉 [![Scratch - Skydive](https://img.shields.io/badge/-Scratch%20Skydive-4D97FF?style=flat&logo=scratch&logoColor=white)](https://scratch.mit.edu/projects/1140480389)
 - I have fun rock climbing and Lindy Hop dancing
 - I enjoy training and public speaking and have been active in a Toastmasters Public Speaking Club.
