@@ -86,7 +86,7 @@ Personal Blog Project • 2012–2022
 * * *
 #### Fun Facts about me
 
-- I am a fanatic Linux [![Ubuntu](https://img.shields.io/badge/-Linux%20Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#) and [![Mozilla Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=firefox&logoColor=white)](#) user.
+- I am a fanatic [![Ubuntu](https://img.shields.io/badge/-Linux%20Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#) and [![Mozilla Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat&logo=firefox&logoColor=white)](#) user.
 - I love jumping out of perfectly good airplanes and I am a "United States Parachute Association" (USPA) certified skydiving coach.
    - Check a fun Scratch skydive project here 👉 [![Scratch - Skydive](https://img.shields.io/badge/-Scratch%20Skydive-4D97FF?style=flat&logo=scratch&logoColor=white)](https://scratch.mit.edu/projects/1140480389)
 - I have fun rock climbing and Lindy Hop dancing
