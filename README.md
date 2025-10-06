@@ -7,7 +7,8 @@ I'm a Software Developer, with over a decade of professional experience  as a Cu
 ## 👨‍💻 Main Repositories - Software Development Projects
 
 * **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
-  \([*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)\) :
+  \([*\#Java \#SpringBoot \#REST \#JWT \#MySQL \#HTML/CSS/JS*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)\) : <br>
+  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 #### For the [Video Demo click here](https://youtu.be/ddpZyq2-30Q?si=0WPRMsWgoW6kFFLE)
 
@@ -17,14 +18,15 @@ I'm a Software Developer, with over a decade of professional experience  as a Cu
   Spring Boot Integration tests and JUnit, Mockito ensure 95% code coverage, for a reliable foundation for further planned features, including Swagger documentation and Docker deployment.*
 
 - **[Skydiving Logbook - Thymeleaf Web App](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
-  \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : 
+  \([*\#Java \#SpringBoot \#Thymeleaf \#HTML/CSS \#MySQL*](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)\) : <br>
+   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
   
 My first full stack project:  The REST API’s predecessor. *A web application to log and manage skydiving jumps, built using Java Spring Boot, Thymeleaf, and MySQL. Allows users to record and view their skydiving jump details, such as jump type, dropzone, altitude, aircraft, freefall duration, and additional notes. The application supports user authentication and includes a detailed jump history.*
 
 ## 📊 Data Analysis Project
   
 - **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
-\([*#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  <br>
+\([*#R*](https://github.com/nikospavlopoulos/plane_crashes_R)\) :  <br> [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
 *In this project, the historical trends in airplane crashes & fatalities were analyzed and visualized, using R programming language. The work involved cleaning and structuring the dataset, applying statistical methods to identify long-term trends, and creating visualizations to illustrate key findings. The analysis highlights changes in aviation safety across decades and provides an accessible view of complex historical data.*
 
@@ -36,7 +38,7 @@ My first full stack project:  The REST API’s predecessor. *A web application t
 
 A 45-minute class presentation created during a two-month Project Management program at New York College, Athens. It explores the differences between Traditional and Agile methodologies, highlighting their strengths, limitations, and practical value in real-world projects.
 
-- **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) :
+- **[ProudSalesPro Blog](https://github.com/nikospavlopoulos/proudsalespro)** ([*\#HTML/CSS \#Wordpress*](https://github.com/nikospavlopoulos/proudsalespro)\) : <br> [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
  
 Personal Blog Project • 2012–2022  
 *A self-hosted WordPress blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
