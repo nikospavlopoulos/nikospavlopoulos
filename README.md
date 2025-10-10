@@ -7,19 +7,30 @@ I'm a Software Developer, with over a decade of professional experience  as a Cu
 **Languages & Frameworks:**
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)](#)
+[![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)](#)
 [![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](#)
-[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](#)
 [![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)](#)
+[![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)](#)
+
+**Databases:**
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=databricks&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
+[![H2 Database](https://img.shields.io/badge/-H2%20Database-0000BB?style=flat&logo=h2&logoColor=white)](#)
 
 **Web Development:**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](#)
 
-**Databases & Analytics:**
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
-[![H2 Database](https://img.shields.io/badge/-H2%20Database-0000BB?style=flat&logo=h2&logoColor=white)](#)
+**Containerization / DevOps & Tools / Environments:**
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](#)
+
+**Data Analysis & Visualization:**
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)](#)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](#)
 [![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](#)
 
