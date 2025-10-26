@@ -47,17 +47,19 @@ I'm a Software Developer, with over a decade of professional experience  as a Cu
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
   [![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)](#)
-  [![Test Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen)](#).
-  [![Docker](https://img.shields.io/badge/Docker-✔-2496ED?logo=docker&logoColor=white)](#)
+  [![Docker](https://img.shields.io/badge/Docker-✔-2496ED?logo=docker&logoColor=white)](#) <br>
+  [![Tests](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest/actions/workflows/test-workflow.yml/badge.svg)](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest/actions/workflows/test-workflow.yml)
+  [![Coverage](https://img.shields.io/badge/Coverage-95%25-brightgreen)](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest/actions/workflows/test-workflow.yml)
 
 
 #### For the [Video Demo click here](https://youtu.be/ddpZyq2-30Q?si=0WPRMsWgoW6kFFLE)
 
-\- *This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br>
-\- Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
-\- Containerized the Spring Boot backend using a multi-stage Docker build separating build and runtime stages for optimized deployment and reduced image footprint by ~50%.<br>
-\- The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with HTML, JavaScript, and Bootstrap & CSS allows users to register, log in, create jumps, and view their jump history. <br>
-\- A multi-stage Docker setup enables lightweight, reproducible containerization and streamlined deployment, while Spring Boot Integration Tests, JUnit, and Mockito ensure 95% code coverage for a reliable foundation for future features such as Swagger documentation and extended cloud deployment.*
+- This RESTful API enables users to securely log, manage, and analyze their skydiving jumps, with role-based access for regular users and admins. <br>
+- Built with Java Spring Boot, Spring Data JPA, MySQL (development) and H2 (testing), it implements JWT authentication with custom Spring Security filters and services. <br>
+- Containerized the Spring Boot backend using a multi-stage Docker build separating build and runtime stages for optimized deployment and reduced image footprint by ~50%.<br>
+- Integrated Continuous Integration (CI) using GitHub Actions, enabling automated execution of JUnit and Spring Boot Integration Tests, with JaCoCo coverage reports for reliable and transparent test results, forming a solid foundation for future features and deployment.
+- The API supports search, pagination, and dashboard statistics, while a lightweight frontend built with HTML, JavaScript, and Bootstrap & CSS allows users to register, log in, create jumps, and view their jump history. <br>
+- A multi-stage Docker setup enables lightweight, reproducible containerization and streamlined deployment, while Spring Boot Integration Tests, JUnit, and Mockito ensure 95% code coverage for a reliable foundation for future features such as Swagger documentation and extended cloud deployment.
 
 
 ***
