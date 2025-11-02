@@ -1,6 +1,6 @@
 # Hi there, I'm Nikos Pavlopoulos.
 
-I'm a Software Developer, with over a decade of professional experience  as a Customer Service & Sales exec in multinational professional environments. 
+I'm a Software Developer specializing in Java, Spring Boot and REST APIs. My technical work is supported by 10+ years of analytical and operational experience within customer facing roles in multinational environments.
 
 ### 🛠️ Tech Stack
 
