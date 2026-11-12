@@ -30,9 +30,9 @@ crew at a dropzone in Boeotia, Greece. I built both of these on my own initiativ
 pro bono, to fix problems I kept running into there. Both are live, and both are
 used on operating days.
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <!-- ground:card:start -->
 
 ### Ground — fuel and flight log
@@ -44,7 +44,7 @@ used on operating days.
 
 <!-- ground:card:end -->
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 <!-- winds:card:start -->
 
 ### Winds Aloft &amp; Weather
