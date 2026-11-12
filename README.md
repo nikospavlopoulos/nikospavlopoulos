@@ -49,8 +49,12 @@ print a secret, and prove a fix through the real user path before calling it don
 
 The knowledge comes from my own work: about 300 journal entries (incident notes, post-mortems and learning notes)
 from running Kubernetes, GitOps, PostgreSQL, identity and observability in production, each rewritten as generic
-guidance and checked against the official documentation. Its effect is measured with an eval suite run with and
-without the plugin, and the results are published, including the cases where it adds nothing.
+guidance and checked against the official documentation. It builds on open-source work I adapted and extended:
+[obra/superpowers](https://github.com/obra/superpowers) by Jesse Vincent (the workflow skills and the
+multi-harness architecture), [tspry/superpowers-devops](https://github.com/tspry/superpowers-devops) (the first
+DevOps layer on that workflow) and parts of [mattpocock/skills](https://github.com/mattpocock/skills) by Matt
+Pocock. Its effect is measured with an eval suite run with and without the plugin, and the results are published,
+including the cases where it adds nothing.
 
 <table width="100%">
 <tr>
@@ -69,14 +73,7 @@ without the plugin, and the results are published, including the cases where it 
 </tr>
 </table>
 
-**Install in Claude Code**
-
-```text
-/plugin marketplace add nikospavlopoulos/devops-mutant-powers
-/plugin install devops-mutant-powers@devops-mutant-powers
-```
-
-Also for Codex, Cursor, Antigravity and OpenCode · **[Repository](https://github.com/nikospavlopoulos/devops-mutant-powers)** · **[Release v2.2.0](https://github.com/nikospavlopoulos/devops-mutant-powers/releases/tag/v2.2.0)** ·
+Works in Claude Code, Codex, Cursor, Antigravity and OpenCode · **[Repository](https://github.com/nikospavlopoulos/devops-mutant-powers)** · **[Release v2.2.0](https://github.com/nikospavlopoulos/devops-mutant-powers/releases/tag/v2.2.0)** ·
 **[How it's built](https://github.com/nikospavlopoulos/devops-mutant-powers/blob/main/docs/how-its-built.md)** · **[Eval results](https://github.com/nikospavlopoulos/devops-mutant-powers/blob/main/evals/RESULTS.md)**
 
 `Claude Code plugin` `Agent Skills` `Kubernetes` `Flux` `Terraform` `PostgreSQL` `GitHub Actions` `Copybara`
