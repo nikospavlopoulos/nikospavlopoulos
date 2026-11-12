@@ -38,7 +38,8 @@ used on operating days.
 
 <img src="images/ground-today.png" width="260" alt="The Today screen: three loads with takeoff, landing, duration and fuel, and the day's totals beneath">
 
-**[▶ Try the demo](https://ground-demo.skydive-athens.com)** · **[Case study](https://github.com/nikospavlopoulos/sd-ground-demo)**
+**[▶ Try the demo](https://ground-demo.skydive-athens.com)**<br>
+**[Case study and runnable code](https://github.com/nikospavlopoulos/sd-ground-demo)**
 
 Records every load the jump aircraft flies and every litre of fuel that goes into
 it, replacing a phone note that was retyped from scratch every day and whose
@@ -57,7 +58,8 @@ the zone. Totals are derived on read and never stored.
 
 <img src="images/winds-aloft.png" width="260" alt="The Winds screen: the wind every 1,000 ft above the field, each step with a drift arrow, direction, speed and temperature">
 
-**[▶ Open the app](https://winds.skydive-athens.com)** · **[Case study](https://github.com/nikospavlopoulos/sd-winds-demo)**
+**[▶ Open the app](https://winds.skydive-athens.com)**<br>
+**[Case study and runnable code](https://github.com/nikospavlopoulos/sd-winds-demo)**
 
 Gives the wind every 1,000 ft from the surface to 15,000 ft **above the field** —
 the way an altimeter reads it, not above sea level — with a drift arrow pointing
