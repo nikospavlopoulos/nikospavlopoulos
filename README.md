@@ -1,3 +1,17 @@
+<!--
+  SHARED FILE — two agent sessions maintain this README.
+  One looks after the Ground app, the other after Winds Aloft & Weather.
+  Both commit as the same author, so the log cannot tell you who wrote what.
+
+  PROTOCOL
+  1. git pull --rebase  immediately before every push. Never force-push.
+  2. Edit ONLY inside your own block. Blocks are delimited by HTML comments
+     containing "ground:start" / "ground:end" and "winds:start" / "winds:end".
+  3. Everything outside those blocks is shared. Change it only when it is
+     genuinely about your app, and never reformat the other block.
+  4. If a push is rejected, read the other side's commit before rebasing.
+-->
+
 # Nikos Pavlopoulos
 
 Software developer — Java and Spring Boot by training, most recently TypeScript on
@@ -18,43 +32,45 @@ used on operating days.
 <table>
 <tr>
 <td width="50%" valign="top">
+<!-- ground:start -->
 
 ### Ground — fuel and flight log
 
 <img src="images/ground-today.png" width="260" alt="The Today screen: three loads with takeoff, landing, duration and fuel, and the day's totals beneath">
 
-**[▶ Try the demo](https://ground-demo.skydive-athens.com)** · **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-ground-demo)**
+**[▶ Try the demo](https://ground-demo.skydive-athens.com)** · **[Case study](https://github.com/nikospavlopoulos/sd-ground-demo)**
 
+Records every load the jump aircraft flies and every litre of fuel that goes into
+it, replacing a phone note that was retyped from scratch every day and whose
+totals were mental arithmetic between loads. The client is authoritative, so a tap
+registers the moment it happens and survives a dropout while the crew move around
+the zone. Totals are derived on read and never stored.
+
+`TypeScript` `Preact` `Hono` `Cloudflare Workers` `D1 / SQLite` `Vitest` `Playwright`
+
+<!-- ground:end -->
 </td>
 <td width="50%" valign="top">
+<!-- winds:start -->
 
 ### Winds Aloft &amp; Weather
 
 <img src="images/winds-aloft.png" width="260" alt="The Winds screen: the wind every 1,000 ft above the field, each step with a drift arrow, direction, speed and temperature">
 
-**[▶ Open the app](https://winds.skydive-athens.com)** · **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-winds-demo)**
+**[▶ Open the app](https://winds.skydive-athens.com)** · **[Case study](https://github.com/nikospavlopoulos/sd-winds-demo)**
 
+Gives the wind every 1,000 ft from the surface to 15,000 ft **above the field** —
+the way an altimeter reads it, not above sea level — with a drift arrow pointing
+where the wind will carry you. Five days, scrubbed hour by hour with no further
+requests, plus surface weather from three forecast models and cloud by height
+from two.
+
+`TypeScript` `Preact` `Hono` `Cloudflare Workers` `Open-Meteo` `Vitest` `Playwright`
+
+<!-- winds:end -->
 </td>
 </tr>
 </table>
-
-**Ground** records every load the jump aircraft flies and every litre of fuel that
-goes into it — replacing a phone note that was retyped from scratch every day and
-whose totals were mental arithmetic between loads. The client is authoritative, so
-a tap registers the moment it happens and survives a dropout while the crew move
-around the zone; totals are derived on read and never stored.
-
-`TypeScript` `Preact` `Hono` `Cloudflare Workers` `D1 / SQLite` `Vite` `Vitest` `Playwright`
-
-**Winds Aloft & Weather** gives the wind every 1,000 ft from the surface to 15,000
-ft **above the field** — the way an altimeter reads it, not above sea level — with
-a drift arrow pointing where the wind will carry you. Five days, scrubbed hour by
-hour with no further requests, plus surface weather from three forecast models and
-cloud by height from two. It exists because the free tool jumpers relied on was no
-longer maintained, and the general weather sites are heavy, partly paywalled and
-not built around one airfield.
-
-`TypeScript` `Preact` `Hono` `Cloudflare Workers` `Open-Meteo` `Vitest` `Playwright`
 
 ---
 
