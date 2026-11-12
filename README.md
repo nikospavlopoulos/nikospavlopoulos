@@ -1,6 +1,7 @@
 <!--
-  SHARED FILE — two agent sessions maintain this README.
-  One looks after the Ground app, the other after Winds Aloft & Weather.
+  SHARED FILE — three agent sessions maintain this README.
+  One looks after the Ground app, one after Winds Aloft & Weather, and one
+  after DevOps Mutant Powers.
   Both commit as the same author, so the log cannot tell you who wrote what.
 
   PROTOCOL
@@ -8,6 +9,7 @@
   2. Edit ONLY inside your own blocks. Blocks are delimited by HTML comments
      whose names carry the app: "ground:card", "ground:prose", "winds:card",
      "winds:prose", each with a :start and an :end. Each app owns two.
+     DevOps Mutant Powers owns one, "dmp", with "dmp:start" and "dmp:end".
   3. Everything outside those blocks is shared. Change it only when it is
      genuinely about your app, and never reformat the other block.
   4. If a push is rejected, read the other side's commit before rebasing.
@@ -15,11 +17,26 @@
 
 # Nikos Pavlopoulos
 
-Software developer — Java and Spring Boot by training, most recently TypeScript on
-Cloudflare Workers. Backed by 10+ years of analytical and customer-facing work in
-multinational environments.
+DevOps engineer — I run Kubernetes, GitOps, PostgreSQL, identity and observability in production, and keep a
+journal of every incident, post-mortem and lesson along the way. Software developer by training (Java and Spring
+Boot, most recently TypeScript on Cloudflare Workers), backed by 10+ years of analytical and customer-facing work
+in multinational environments.
 
 📄 [Resume](https://resume.nikospavlopoulos.com) · 📩 Contact me via the email in my profile info
+
+---
+
+<!-- dmp:start -->
+## DevOps Mutant Powers — operational discipline for AI coding agents
+
+- **[DevOps Mutant Powers](https://github.com/nikospavlopoulos/devops-mutant-powers)** — an open-source plugin
+  that gives AI coding agents 45 skills: a workflow for designing, planning, building and verifying changes, and
+  DevOps skills for Kubernetes, GitOps, IaC, CI/CD, PostgreSQL, TLS, identity, observability and incident
+  response. Built from about 300 of my own journal entries (incident notes, post-mortems and learning notes).
+  Works in Claude Code, Codex, Cursor, Antigravity and OpenCode.
+
+  `Claude Code plugin` `Agent Skills` `Kubernetes` `Flux` `Terraform` `PostgreSQL` `GitHub Actions` `Copybara`
+<!-- dmp:end -->
 
 ---
 
