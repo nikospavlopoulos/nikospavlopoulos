@@ -18,9 +18,13 @@
 # Nikos Pavlopoulos
 
 DevOps engineer — I run Kubernetes, GitOps, PostgreSQL, identity and observability in production, and keep a
-journal of every incident, post-mortem and lesson along the way. Software developer by training (Java and Spring
-Boot, most recently TypeScript on Cloudflare Workers), backed by 10+ years of analytical and customer-facing work
-in multinational environments.
+journal of every incident, post-mortem and lesson along the way. I'm passionate about AI and agentic coding:
+agents such as Claude Code and Codex, and the skills, plugins and evals that make them dependable on real
+infrastructure. On my own initiative I turned that journal into **DevOps Mutant Powers**, an open-source plugin
+that gives AI coding agents a DevOps engineer's discipline, and I build it like production software, with tests,
+evals and a gated release pipeline. Software developer by training (Java and Spring Boot, most recently
+TypeScript on Cloudflare Workers), backed by 10+ years of analytical and customer-facing work in multinational
+environments.
 
 📄 [Resume](https://resume.nikospavlopoulos.com) · 📩 Contact me via the email in my profile info
 
