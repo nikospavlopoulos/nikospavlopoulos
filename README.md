@@ -27,15 +27,55 @@ in multinational environments.
 ---
 
 <!-- dmp:start -->
-## DevOps Mutant Powers — operational discipline for AI coding agents
+<a href="https://github.com/nikospavlopoulos/devops-mutant-powers">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/hero-light.svg">
+    <img alt="DevOps Mutant Powers: operational discipline for AI coding agents" src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/hero-light.svg" width="100%">
+  </picture>
+</a>
 
-- **[DevOps Mutant Powers](https://github.com/nikospavlopoulos/devops-mutant-powers)** — an open-source plugin
-  that gives AI coding agents 45 skills: a workflow for designing, planning, building and verifying changes, and
-  DevOps skills for Kubernetes, GitOps, IaC, CI/CD, PostgreSQL, TLS, identity, observability and incident
-  response. Built from about 300 of my own journal entries (incident notes, post-mortems and learning notes).
-  Works in Claude Code, Codex, Cursor, Antigravity and OpenCode.
+## DevOps Mutant Powers — my open-source plugin for AI coding agents
 
-  `Claude Code plugin` `Agent Skills` `Kubernetes` `Flux` `Terraform` `PostgreSQL` `GitHub Actions` `Copybara`
+AI coding agents are fast, and in infrastructure speed without discipline breaks things: a command run against the
+wrong cluster, a fix guessed from half an error message, "done" declared before anything was checked.
+**DevOps Mutant Powers** gives them the habits of a careful DevOps engineer instead. Its 45 skills make the agent
+design before it builds, debug from evidence, name the target of every command, ask before any live change, never
+print a secret, and prove a fix through the real user path before calling it done.
+
+The knowledge comes from my own work: about 300 journal entries (incident notes, post-mortems and learning notes)
+from running Kubernetes, GitOps, PostgreSQL, identity and observability in production, each rewritten as generic
+guidance and checked against the official documentation. Its effect is measured with an eval suite run with and
+without the plugin, and the results are published, including the cases where it adds nothing.
+
+<table width="100%">
+<tr>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#workflow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/workflow-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/workflow-on-light.svg" alt="" width="48" height="48"></picture><br><b>Workflow</b></a><br><sub>12 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#debugging-and-incidents"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/debugging-and-incidents-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/debugging-and-incidents-on-light.svg" alt="" width="48" height="48"></picture><br><b>Debugging and incidents</b></a><br><sub>3 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#platform"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/platform-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/platform-on-light.svg" alt="" width="48" height="48"></picture><br><b>Platform</b></a><br><sub>6 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#delivery"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/delivery-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/delivery-on-light.svg" alt="" width="48" height="48"></picture><br><b>Delivery</b></a><br><sub>5 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#network-and-edge"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/network-and-edge-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/network-and-edge-on-light.svg" alt="" width="48" height="48"></picture><br><b>Network and edge</b></a><br><sub>5 skills</sub></td>
+</tr>
+<tr>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#data"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/data-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/data-on-light.svg" alt="" width="48" height="48"></picture><br><b>Data</b></a><br><sub>2 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#security-and-identity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/security-and-identity-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/security-and-identity-on-light.svg" alt="" width="48" height="48"></picture><br><b>Security and identity</b></a><br><sub>3 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#cloud-and-observability"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/cloud-and-observability-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/cloud-and-observability-on-light.svg" alt="" width="48" height="48"></picture><br><b>Cloud and observability</b></a><br><sub>2 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#code-quality"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/code-quality-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/code-quality-on-light.svg" alt="" width="48" height="48"></picture><br><b>Code quality</b></a><br><sub>2 skills</sub></td>
+<td align="center" width="20%"><a href="https://github.com/nikospavlopoulos/devops-mutant-powers#meta"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/meta-on-dark.svg"><img src="https://raw.githubusercontent.com/nikospavlopoulos/assets/main/devops-mutant-powers/badges/meta-on-light.svg" alt="" width="48" height="48"></picture><br><b>Meta</b></a><br><sub>5 skills</sub></td>
+</tr>
+</table>
+
+**Install in Claude Code**
+
+```text
+/plugin marketplace add nikospavlopoulos/devops-mutant-powers
+/plugin install devops-mutant-powers@devops-mutant-powers
+```
+
+Also for Codex, Cursor, Antigravity and OpenCode · **[Repository](https://github.com/nikospavlopoulos/devops-mutant-powers)** · **[Release v2.2.0](https://github.com/nikospavlopoulos/devops-mutant-powers/releases/tag/v2.2.0)** ·
+**[How it's built](https://github.com/nikospavlopoulos/devops-mutant-powers/blob/main/docs/how-its-built.md)** · **[Eval results](https://github.com/nikospavlopoulos/devops-mutant-powers/blob/main/evals/RESULTS.md)**
+
+`Claude Code plugin` `Agent Skills` `Kubernetes` `Flux` `Terraform` `PostgreSQL` `GitHub Actions` `Copybara`
 <!-- dmp:end -->
 
 ---
