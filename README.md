@@ -5,8 +5,9 @@
 
   PROTOCOL
   1. git pull --rebase  immediately before every push. Never force-push.
-  2. Edit ONLY inside your own block. Blocks are delimited by HTML comments
-     containing "ground:start" / "ground:end" and "winds:start" / "winds:end".
+  2. Edit ONLY inside your own blocks. Blocks are delimited by HTML comments
+     whose names carry the app: "ground:card", "ground:prose", "winds:card",
+     "winds:prose", each with a :start and an :end. Each app owns two.
   3. Everything outside those blocks is shared. Change it only when it is
      genuinely about your app, and never reformat the other block.
   4. If a push is rejected, read the other side's commit before rebasing.
@@ -32,7 +33,7 @@ used on operating days.
 <table>
 <tr>
 <td width="50%" valign="top">
-<!-- ground:start -->
+<!-- ground:card:start -->
 
 ### Ground — fuel and flight log
 
@@ -41,18 +42,10 @@ used on operating days.
 **[▶ Try the demo](https://ground-demo.skydive-athens.com)**<br>
 **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-ground-demo)**
 
-Records every load the jump aircraft flies and every litre of fuel that goes into
-it, replacing a phone note that was retyped from scratch every day and whose
-totals were mental arithmetic between loads. The client is authoritative, so a tap
-registers the moment it happens and survives a dropout while the crew move around
-the zone. Totals are derived on read and never stored.
-
-`TypeScript` `Preact` `Hono` `Cloudflare Workers` `D1 / SQLite` `Vitest` `Playwright`
-
-<!-- ground:end -->
+<!-- ground:card:end -->
 </td>
 <td width="50%" valign="top">
-<!-- winds:start -->
+<!-- winds:card:start -->
 
 ### Winds Aloft &amp; Weather
 
@@ -61,18 +54,34 @@ the zone. Totals are derived on read and never stored.
 **[▶ Open the app](https://winds.skydive-athens.com)**<br>
 **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-winds-demo)**
 
-Gives the wind every 1,000 ft from the surface to 15,000 ft **above the field** —
-the way an altimeter reads it, not above sea level — with a drift arrow pointing
-where the wind will carry you. Five days, scrubbed hour by hour with no further
-requests, plus surface weather from three forecast models and cloud by height
-from two.
-
-`TypeScript` `Preact` `Hono` `Cloudflare Workers` `Open-Meteo` `Vitest` `Playwright`
-
-<!-- winds:end -->
+<!-- winds:card:end -->
 </td>
 </tr>
 </table>
+
+<!-- ground:prose:start -->
+
+**Ground** records every load the jump aircraft flies and every litre of fuel that
+goes into it, replacing a phone note that was retyped from scratch every day and
+whose totals were mental arithmetic between loads. The client is authoritative, so
+a tap registers the moment it happens and survives a dropout while the crew move
+around the zone. Totals are derived on read and never stored.
+
+`TypeScript` `Preact` `Hono` `Cloudflare Workers` `D1 / SQLite` `Vitest` `Playwright`
+
+<!-- ground:prose:end -->
+
+<!-- winds:prose:start -->
+
+**Winds Aloft & Weather** gives the wind every 1,000 ft from the surface to
+15,000 ft **above the field** — the way an altimeter reads it, not above sea
+level — with a drift arrow pointing where the wind will carry you. Five days,
+scrubbed hour by hour with no further requests, plus surface weather from three
+forecast models and cloud by height from two.
+
+`TypeScript` `Preact` `Hono` `Cloudflare Workers` `Open-Meteo` `Vitest` `Playwright`
+
+<!-- winds:prose:end -->
 
 ---
 
