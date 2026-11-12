@@ -15,27 +15,46 @@ crew at a dropzone in Boeotia, Greece. I built both of these on my own initiativ
 pro bono, to fix problems I kept running into there. Both are live, and both are
 used on operating days.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Ground — fuel and flight log
 
-**[▶ Try the demo](https://ground-demo.skydive-athens.com)** · *case study coming shortly*
+<img src="images/ground-today.png" width="260" alt="The Today screen: three loads with takeoff, landing, duration and fuel, and the day's totals beneath">
 
-An installable progressive web app that records every load the jump aircraft flies
-and every litre of fuel that goes into it. The client is authoritative, so a tap
-registers the moment it happens and survives a dropout while the crew move around
-the zone. Totals are derived on read and never stored. Sunlight-first interface,
-Cloudflare free tier throughout.
+**[▶ Try the demo](https://ground-demo.skydive-athens.com)** · **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-ground-demo)**
+
+</td>
+<td width="50%" valign="top">
+
+### Winds Aloft &amp; Weather
+
+<img src="images/winds-aloft.png" width="260" alt="The Winds screen: the wind every 1,000 ft above the field, each step with a drift arrow, direction, speed and temperature">
+
+**[▶ Open the app](https://winds.skydive-athens.com)** · **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-winds-demo)**
+
+</td>
+</tr>
+</table>
+
+**Ground** records every load the jump aircraft flies and every litre of fuel that
+goes into it — replacing a phone note that was retyped from scratch every day and
+whose totals were mental arithmetic between loads. The client is authoritative, so
+a tap registers the moment it happens and survives a dropout while the crew move
+around the zone; totals are derived on read and never stored.
 
 `TypeScript` `Preact` `Hono` `Cloudflare Workers` `D1 / SQLite` `Vite` `Vitest` `Playwright`
 
-### Winds Aloft & Weather
+**Winds Aloft & Weather** gives the wind every 1,000 ft from the surface to 15,000
+ft **above the field** — the way an altimeter reads it, not above sea level — with
+a drift arrow pointing where the wind will carry you. Five days, scrubbed hour by
+hour with no further requests, plus surface weather from three forecast models and
+cloud by height from two. It exists because the free tool jumpers relied on was no
+longer maintained, and the general weather sites are heavy, partly paywalled and
+not built around one airfield.
 
-**[▶ Open the app](https://winds.skydive-athens.com)** · *case study coming shortly*
-
-Winds aloft, surface weather and cloud for a single airfield, reporting heights
-above the field (AGL) rather than above sea level. Fast, free and no sign-up,
-built because the tool jumpers relied on was no longer maintained.
-
-`TypeScript` `Preact` `Hono` `Cloudflare Workers` `Open-Meteo`
+`TypeScript` `Preact` `Hono` `Cloudflare Workers` `Open-Meteo` `Vitest` `Playwright`
 
 ---
 
