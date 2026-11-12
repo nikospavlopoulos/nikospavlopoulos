@@ -37,7 +37,7 @@ used on operating days.
 
 ### Ground — fuel and flight log
 
-<img src="images/ground-today.png" width="260" alt="The Today screen: three loads with takeoff, landing, duration and fuel, and the day's totals beneath">
+<img src="images/ground-today.png" width="380" alt="The Today screen: three loads with takeoff, landing, duration and fuel, and the day's totals beneath">
 
 **[▶ Try the demo](https://ground-demo.skydive-athens.com)**<br>
 **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-ground-demo)**
@@ -49,7 +49,7 @@ used on operating days.
 
 ### Winds Aloft &amp; Weather
 
-<img src="images/winds-aloft.png" width="260" alt="The Winds screen: the wind every 1,000 ft above the field, each step with a drift arrow, direction, speed and temperature">
+<img src="images/winds-aloft.png" width="380" alt="The Winds screen: the wind every 1,000 ft above the field, each step with a drift arrow, direction, speed and temperature">
 
 **[▶ Open the app](https://winds.skydive-athens.com)**<br>
 **[Case study and runnable code](https://github.com/nikospavlopoulos/sd-winds-demo)**
