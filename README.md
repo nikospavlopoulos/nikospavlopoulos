@@ -1,5 +1,5 @@
 <!--
-  SHARED FILE — three agent sessions maintain this README.
+  SHARED FILE: three agent sessions maintain this README.
   One looks after the Ground app, one after Winds Aloft & Weather, and one
   after DevOps Mutant Powers.
   Both commit as the same author, so the log cannot tell you who wrote what.
@@ -38,7 +38,7 @@ analytical and customer-facing work in multinational environments.
   </picture>
 </a>
 
-## DevOps Mutant Powers — my open-source plugin for AI coding agents
+## DevOps Mutant Powers: my open-source plugin for AI coding agents
 
 AI coding agents are fast, and in infrastructure speed without discipline breaks things: a command run against the
 wrong cluster, a fix guessed from half an error message, "done" declared before anything was checked.
@@ -80,7 +80,7 @@ Works in Claude Code, Codex, Cursor, Antigravity and OpenCode · **[Repository](
 
 ---
 
-## Skydive Athens — production software for a dropzone
+## Skydive Athens: production software for a dropzone
 
 I am a licensed USPA skydiver and a certified skydiving coach, and I work ground
 crew at a dropzone in Boeotia, Greece. I built both of these on my own initiative,
@@ -92,7 +92,7 @@ used on operating days.
 <td width="50%" valign="top" align="center">
 <!-- ground:card:start -->
 
-### Ground — fuel and flight log
+### Ground: fuel and flight log
 
 <img src="images/ground-today.png" width="380" alt="The Today screen: three loads with takeoff, landing, duration and fuel, and the day's totals beneath">
 
@@ -131,8 +131,8 @@ around the zone. Totals are derived on read and never stored.
 <!-- winds:prose:start -->
 
 **Winds Aloft & Weather** gives the wind every 1,000 ft from the surface to
-15,000 ft **above the field** — the way an altimeter reads it, not above sea
-level — with a drift arrow pointing where the wind will carry you. Five days,
+15,000 ft **above the field** (the way an altimeter reads it, not above sea
+level), with a drift arrow pointing where the wind will carry you. Five days,
 scrubbed hour by hour with no further requests, plus surface weather from three
 forecast models and cloud by height from two.
 
@@ -144,22 +144,22 @@ forecast models and cloud by height from two.
 
 ## Earlier work
 
-- **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**
+- **[Skydiving Logbook REST API](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest)**:
   [![Tests](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest/actions/workflows/test-workflow.yml/badge.svg)](https://github.com/nikospavlopoulos/skydivinglogbook-spring-rest/actions/workflows/test-workflow.yml)
-  — log and manage skydiving jumps, with role-based access. Java, Spring Boot,
+  log and manage skydiving jumps, with role-based access. Java, Spring Boot,
   Spring Data JPA, JWT via custom Spring Security filters, MySQL and H2,
   multi-stage Docker, CI running JUnit and integration tests at 95% coverage.
   [Video demo](https://youtu.be/ddpZyq2-30Q?si=0WPRMsWgoW6kFFLE).
-- **[Skydiving Logbook — Thymeleaf](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**
-  — my first full-stack project, and the REST API's predecessor.
-- **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**
-  — long-term trends in airplane crashes and fatalities, cleaned, analysed and
+- **[Skydiving Logbook (Thymeleaf)](https://github.com/nikospavlopoulos/skydivinglogbook-spring-thymeleaf)**:
+  my first full-stack project, and the REST API's predecessor.
+- **[Airplane Crash Analysis](https://github.com/nikospavlopoulos/plane_crashes_R)**:
+  long-term trends in airplane crashes and fatalities, cleaned, analysed and
   visualised in R.
-- **[ProudSalesPro](https://github.com/nikospavlopoulos/proudsalespro)**
-  — self-hosted WordPress blog on professional sales, 2012–2022. Ranked on
+- **[ProudSalesPro](https://github.com/nikospavlopoulos/proudsalespro)**:
+  self-hosted WordPress blog on professional sales, 2012–2022. Ranked on
   Google's first page for two Greek search terms between 2014 and 2020.
-- **[Traditional vs Agile](https://gist.github.com/nikospavlopoulos/f60bc9ad46a3d53a1b9818184592c50e)**
-  — a 45-minute class presentation from a project-management programme at New
+- **[Traditional vs Agile](https://gist.github.com/nikospavlopoulos/f60bc9ad46a3d53a1b9818184592c50e)**:
+  a 45-minute class presentation from a project-management programme at New
   York College, Athens.
 
 ---
@@ -167,5 +167,5 @@ forecast models and cloud by height from two.
 #### Also
 
 A fanatic Ubuntu and Firefox user. I like jumping out of perfectly good
-airplanes, rock climbing, Lindy Hop, and Toastmasters — and there is a
+airplanes, rock climbing, Lindy Hop, and Toastmasters, and there is a
 [Scratch skydive project](https://scratch.mit.edu/projects/1140480389) too.
